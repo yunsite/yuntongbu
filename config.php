@@ -6,7 +6,7 @@
 
 	/***********************
 	* 同步帐号对应的新浪微博token/secret值
-	* 到 http://yuntongbu.nipao.com/get 获取 
+	* 到 http://yuntongbu.app.nipao.com/get/ 获取 
 	**********************/
 	define( "SINA_TOKEN" , '你的token值' );
 	define( "SINA_SECRET" , '你的secret值' );
@@ -19,7 +19,7 @@
 
 	/***********************
 	* 同步帐号对应的腾讯微博token/secret值
-	* 到 http://yuntongbu.nipao.com/get 获取 
+	* 到 http://yuntongbu.app.nipao.com/get/ 获取 
 	**********************/
 	define( "QQ_TOKEN" , '你的token值' );
 	define( "QQ_SECRET" , '你的secret值' );
